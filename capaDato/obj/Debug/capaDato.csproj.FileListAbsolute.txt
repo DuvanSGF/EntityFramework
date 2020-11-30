@@ -1,0 +1,10 @@
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\bin\Debug\capaDato.dll.config
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\bin\Debug\capaDato.dll
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\bin\Debug\capaDato.pdb
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\bin\Debug\EntityFramework.dll
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\bin\Debug\EntityFramework.xml
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\obj\Debug\capaDato.csprojAssemblyReference.cache
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\obj\Debug\capaDato.csproj.CoreCompileInputs.cache
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\obj\Debug\capaDato.csproj.CopyComplete
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\obj\Debug\capaDato.dll
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaDato\obj\Debug\capaDato.pdb

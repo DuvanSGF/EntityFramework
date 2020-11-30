@@ -1,0 +1,12 @@
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\bin\Debug\capaDato.dll
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\bin\Debug\capaDato.pdb
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\bin\Debug\capaDato.dll.config
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\obj\Debug\capaNegocio.csprojAssemblyReference.cache
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\DuvanAlbeiroMejiaCor\source\repos\SistemaAcademico2\capaNegocio\obj\Debug\capaNegocio.pdb
